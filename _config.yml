@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Alexandra Gneurshk"
-  pronouns         : # example: "she/her"  
-  bio              : "Pronouns: It/Its/She/Her"
+  pronouns         : "It/Its/She/Her"  
+  bio              : "Undergraduate at the University of Calgary"
   location         : "Calgary, Alberta, Canada"
-  employer         : "University of Calgary"
+  employer         : # "University of Calgary"
   uri              : # URL
   email            : "thegneurshk@proton.me" 
 
