@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /alexandra-gneurshk.github.io/sitemap/
+permalink: https://thegneurshk.github.io/alexandra-gneurshk.github.io/sitemap/
 author_profile: true
 ---
 
