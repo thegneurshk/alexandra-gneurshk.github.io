@@ -1,6 +1,6 @@
 ---
 title: "Delving into the Theory of Normal Operators"
-excerpt: "Undergraduate Thesis for BSc Honours in Mathematics, University of Calgary<br/><embed src='/images/500x300.png'>"
+excerpt: "Undergraduate Thesis for BSc Honours in Mathematics, University of Calgary<br/><embed src='/files/Delving into the Theory of Normal Operators.pdf'>"
 collection: portfolio
 ---
 
